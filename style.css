@@ -65,7 +65,7 @@ li{
     z-index: 10;
     border: none;
     background-color: transparent;
-    animation: rotate 2s linear infinite;
+    animation: rotate 15s linear infinite;
 }
  ul {
     background: var(--black);
@@ -88,7 +88,7 @@ transition: all 0.3s ease;
     z-index: 10;
     border: none;
     background-color: transparent;
-    animation: rotate 2s linear infinite;
+    /* animation: rotate 2s linear infinite; */
 }
 .night i{
     font-size: 30px;
