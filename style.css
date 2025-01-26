@@ -228,6 +228,7 @@ header{
 .header-img img{
     width: 370px;
     transform: translateY(50px);
+    /* filter: ; */
 }
 
 .effects span{
