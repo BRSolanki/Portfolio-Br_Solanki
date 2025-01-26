@@ -652,7 +652,8 @@ header{
   .wrapper .github:hover,
   .wrapper .github:hover .tooltip,
   .wrapper .github:hover .tooltip::before {
-    background: #2b3137;
+   /* background: #2b3137; */
+   background: #204366;
     color: #fff;
   }
 
